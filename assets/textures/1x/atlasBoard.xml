@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="atlasBoard.png">
+	<SubTexture name="flag" x="0" y="0" width="32"
+		height="32" />
+	<SubTexture name="mine" x="32" y="0" width="32"
+		height="32" />
+	<SubTexture name="notRevealedBackground" x="0" y="32" width="32"
+		height="32" />
+	<SubTexture name="revealedBackground" x="32" y="32" width="32"
+		height="32" />
+</TextureAtlas>
